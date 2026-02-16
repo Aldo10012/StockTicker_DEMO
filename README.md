@@ -73,10 +73,10 @@ You can verify the stream logic independently of the iOS app:
 
 ## Video demos:
 
-### Postman demo (prove api works)
+Postman demo (prove api works)
 
 https://github.com/user-attachments/assets/9238f0fe-7db2-48d2-9557-ec8ccadfd1e3
 
-### iOS demo (prove end-to-end works)
+iOS demo (prove end-to-end works)
 
 https://github.com/user-attachments/assets/27d2c24a-9a2e-49c4-b50f-af580dedd05c
