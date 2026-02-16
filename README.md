@@ -70,3 +70,13 @@ The API pushes a `retry` field (set to 1000ms). If the client loses signal, the 
 You can verify the stream logic independently of the iOS app:
 1. Create a new **GET** request in Postman to `http://localhost:8080/stocks/AAPL`.
 2. Postman will detect the `text/event-stream` header and open a persistent event pane.
+
+## Video demos:
+
+### Postman demo (prove api works)
+
+https://github.com/user-attachments/assets/9238f0fe-7db2-48d2-9557-ec8ccadfd1e3
+
+### iOS demo (prove end-to-end works)
+
+https://github.com/user-attachments/assets/27d2c24a-9a2e-49c4-b50f-af580dedd05c
