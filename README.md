@@ -6,7 +6,7 @@ A comprehensive demonstration of **Server-Sent Events (SSE)** using a Swift-base
 
 ## 🚀 The Motivation
 
-While developing SSE support for the **EZNetworking SDK**, I noticed a lack of free, reliable SSE-based APIs for testing complex streaming scenarios. To bridge this gap, I built a custom "Stock Ticker" backend. 
+While developing SSE support for my **[EZNetworking SDK](https://github.com/Aldo10012/EZNetworking/)**, I noticed a lack of free, reliable SSE-based APIs for testing complex streaming scenarios. To bridge this gap, I built a custom "Stock Ticker" backend. 
 
 This project goes beyond a simple "Hello World" stream by simulating a realistic financial environment, allowing for the testing of:
 * **Persistent Connections:** Maintaining long-lived HTTP streams.
